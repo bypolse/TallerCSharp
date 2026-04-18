@@ -3,3 +3,8 @@ C:\Users\Usuario\Documents\TallerSeccionA\TallerIUJO01\TallerIUJO01\bin\Debug\Ta
 C:\Users\Usuario\Documents\TallerSeccionA\TallerIUJO01\TallerIUJO01\obj\Debug\TallerIUJO01.csprojResolveAssemblyReference.cache
 C:\Users\Usuario\Documents\TallerSeccionA\TallerIUJO01\TallerIUJO01\obj\Debug\TallerIUJO01.exe
 C:\Users\Usuario\Documents\TallerSeccionA\TallerIUJO01\TallerIUJO01\obj\Debug\TallerIUJO01.pdb
+C:\Users\juanp\OneDrive\Documents\TallerCSharp\TallerCSharp\TallerIUJO01\TallerIUJO01\bin\Debug\TallerIUJO01.exe
+C:\Users\juanp\OneDrive\Documents\TallerCSharp\TallerCSharp\TallerIUJO01\TallerIUJO01\bin\Debug\TallerIUJO01.pdb
+C:\Users\juanp\OneDrive\Documents\TallerCSharp\TallerCSharp\TallerIUJO01\TallerIUJO01\obj\Debug\TallerIUJO01.csprojResolveAssemblyReference.cache
+C:\Users\juanp\OneDrive\Documents\TallerCSharp\TallerCSharp\TallerIUJO01\TallerIUJO01\obj\Debug\TallerIUJO01.exe
+C:\Users\juanp\OneDrive\Documents\TallerCSharp\TallerCSharp\TallerIUJO01\TallerIUJO01\obj\Debug\TallerIUJO01.pdb
